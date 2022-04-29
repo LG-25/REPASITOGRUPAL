@@ -1,24 +1,19 @@
-
-
+#ingresar{
+    color: white;
+}
+#registrarse{
+    color: black;
+}
 .container{
     margin: auto;
-    width: 50%;
+    width: 30%;
     border: 1px solid gray;
     padding: 10px;
-}
 
+}
 h1{
     text-align: center;
 }
-
-#ingresar{
-    background-color: green;
-    border: 0em;
-    text-decoration: none;
-}
-
-#registrarse{
-    background-color: rgb(53, 144, 166);
-    border: 0em;
-    text-decoration: none;
+button{
+    width: 49%;   
 }
