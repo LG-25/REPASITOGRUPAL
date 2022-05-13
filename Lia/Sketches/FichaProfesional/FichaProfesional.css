@@ -1,0 +1,55 @@
+
+h1{
+    color: #93A392;
+    text-transform: uppercase;
+}
+
+h3{
+    color: #bad9a2;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h5{
+    color: white;
+}
+
+input{
+    background-color: #9dc4b5ff;
+    border: #9dc4b5ff;
+}
+::placeholder{
+    color: white;
+}
+
+#ComentarioTexto{
+    width: 85%;
+}
+
+#modalidadAtencion{
+    background-color: #9dc4b5ff;
+}
+
+#CALIFICACIÓN{
+    background-color: #bad9a2ff;
+    border-radius: 2em;
+}
+
+#Comentario{
+    background-color: #bad9a2ff;
+    border-radius: 2em;
+    border: #bad9a2ff;
+}
+
+#ComentarioTexto{
+    background-color: white;
+    border-radius: 1em;
+    border: white;
+    height: 8em;
+}
+
+#Horario{
+    background-color: #bad9a2ff;
+    border-style: none;
+    height: 3em;
+}

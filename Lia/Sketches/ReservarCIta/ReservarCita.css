@@ -1,0 +1,32 @@
+h1{
+    color: #93A392;
+    text-transform: uppercase;
+}
+
+h3{
+    color: #9dc4b5;
+   
+}
+
+input{
+    background-color: #adbf97ff;
+    border: #adbf97ff;
+    border-radius: 0.5em;
+    height: 2.5em;
+}
+::placeholder{
+    color: white;
+}
+#CajaInfo{
+    width: 90%;
+}
+#btnSiguiente{
+    background-color: #9dc4b5ff;
+    border: #9dc4b5ff;
+    width:15%;
+}
+
+#TotalPagar{
+    background-color: #93A392;
+    border: #93A392;
+}
