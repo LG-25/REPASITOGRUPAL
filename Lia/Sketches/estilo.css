@@ -1,0 +1,55 @@
+h1{
+    color: #93a392ff;
+    text-transform: uppercase;
+}
+
+.color-item1{
+    background-color: #98ECDD;
+    border: #98ECDD;
+
+}
+
+.color-item2{
+    background-color: #93A392;
+    border: #93A392;
+}
+
+.color-item3{
+    background-color: #ADBF97;
+    border: #ADBF97;
+}
+.color-item4{
+    background-color: #BAD9A2;
+    border: #BAD9A2;
+}
+.color-item5{
+    background-color: #9DC4B5;
+    border: #9DC4B5;
+}
+
+.border-item{
+    border-radius: 3em;
+}
+
+.titulo-color1{
+    color: #bad9a2ff;
+}
+
+.icono-grande{
+    width: 45%;
+}
+
+.icono-mediano{
+    width: 25%;
+}
+
+.icono-peque{
+    width: 10%;
+}
+
+
+
+/*Boton sign up y login*/
+#BtnCuenta{
+    border-color: #9dc4b5ff;
+}
