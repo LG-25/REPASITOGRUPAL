@@ -1,13 +1,12 @@
 
 import './App.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
-import Button from './Components/Button';
-
+import Info from './Components/Info';
 
 function App() {
   return (
-    <div >
-      <Button label="Ingrse nombre" buttonText="Registrar"/>
+    <div className="App">
+      <Info/>
     </div>
   );
 }
